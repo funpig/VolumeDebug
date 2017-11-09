@@ -6,13 +6,13 @@
 
 我的这个小工具，监听了音量键的按键事件，通过按键事件来控制debug view的显示。
 
-####请在真机上测试，模拟器监听不到音量按键事件
+##### 请在真机上测试，模拟器监听不到音量按键事件
 
 if you want watch the log print in App UI when it running, you should try this tools. 
 
-#####Please try it on device, the simulator could NOT get the event of volume key press.
+##### Please try it on device, the simulator could NOT get the event of volume key press.
 
-###Usage
+### Usage
 Copy all file in Utitity folder to your project. more detail please see the demo.
 
 ```
